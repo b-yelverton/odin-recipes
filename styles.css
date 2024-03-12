@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: olivedrab;
+}
+
+ul{
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    border: 10px solid black;
+}
